@@ -1,0 +1,2 @@
+# Ignore only the project virtual environment folder
+venv/
